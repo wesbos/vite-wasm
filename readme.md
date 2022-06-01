@@ -8,6 +8,7 @@ https://github.com/samsam2310/zbar.wasm/issues/21
 
 Now I can't figure out how to import the thing into a vite project. I've tried:
 
+1. `import { scanImageData } from 'zbar.wasm';`
 1. `import { instantiate } from './node_modules/zbar.wasm/dist/zbar.js'`
 2. `import { loadWasmInstance } from './node_modules/zbar.wasm/dist/load'`
 2. `import { loadWasmInstance } from './node_modules/zbar.wasm/dist/load-browser'`
