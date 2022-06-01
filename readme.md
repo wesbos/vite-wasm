@@ -1,4 +1,4 @@
-## Vite + Wasm
+## HELP: Vite + Wasm + CommonJS?
 
 I'm trying to the zbar.wasm package to import with vite.
 
